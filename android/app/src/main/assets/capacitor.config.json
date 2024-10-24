@@ -1,5 +1,5 @@
 {
-	"appId": "uk.ac.ceh.irecord",
+	"appId": "uk.org.orks.app",
 	"appName": "iRecord App",
 	"webDir": "build",
 	"cordova": {}

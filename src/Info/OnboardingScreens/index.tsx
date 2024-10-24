@@ -73,6 +73,7 @@ const OnBoardingScreens = ({ children }: Props) => {
                 <b>iRecord</b> is a platform for management and sharing of your
                 wildlife observations.
               </p>
+              <p>This is a TEST for ORKS to see if it builds.</p>
             </div>
           </SwiperSlide>
 

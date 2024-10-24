@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli'; // eslint-disable-line
 
 const config: CapacitorConfig = {
-  appId: 'uk.ac.ceh.irecord',
+  appId: 'uk.org.orks.app',
   appName: 'iRecord App',
   webDir: 'build',
   cordova: {},
