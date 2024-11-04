@@ -88,7 +88,7 @@
     "@babel/preset-env": "7.25.4",
     "@babel/preset-react": "7.24.7",
     "@babel/preset-typescript": "7.24.7",
-    "@capacitor/cli": "6.1.2",
+    "@capacitor/cli": "6.0.0",
     "@flumens/eslint-config": "2.1.0",
     "@flumens/prettier-config": "0.3.1",
     "@flumens/webpack-config": "5.4.1",
